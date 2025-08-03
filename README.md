@@ -40,5 +40,5 @@ Un outil multifonction pour Discord conçu pour automatiser, tester et manipuler
 
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/ton-utilisateur/topol-discord-ghost-x.git
+   git clone https://github.com/KaichiZRX/GhostX-tool-discord.git
    cd topol-discord-ghost-x
